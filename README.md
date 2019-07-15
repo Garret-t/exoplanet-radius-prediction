@@ -1,6 +1,8 @@
 # Exoplanet-radius Prediction
 Using NASA's data on exoplanets in an attempt to predict the radius of each planet based only on features of their stars.
 
+The decision to predict the radius of the planets was somewhat aribtrary. After looking at the data, the planet radius was one of the few features that contained a majority of non-null entries.
+
 This is my first data/ml type of project that I have done. I mainly used this project to test different types of model building and data filtering. 
 
 ### Results
